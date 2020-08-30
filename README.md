@@ -1,8 +1,8 @@
 # Video-Chat App
 
 # About
-video chat application which supports chat rooms, video chat, and much more.
-The aim was to just to understand the logic behind video confrencing
+- Video chat application which supports chat rooms, video chat, and much more.
+- The aim was to basically just to understand the logic behind video confrencing.
 ![zoom](https://user-images.githubusercontent.com/61579772/91659604-58795f80-eb03-11ea-9b90-1b8de0a46099.jpg)
 
 ## What I learnt📐
